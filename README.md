@@ -1,4 +1,4 @@
-# Conception du PCB de contrôle - Sous-marin autonome (ASUQTR)
+# Conception du PCB des droppers - Sous-marin autonome (ASUQTR)
 
 **Réalisé par Louis Lavallée**
 
