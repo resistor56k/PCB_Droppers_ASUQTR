@@ -11,7 +11,7 @@ L'un des deux compartiments à batterie du sous-marin contient deux droppers. Ce
 ## Documentation
 [Schémas du PCB](Schemas_PCB_Droppers.pdf)
 
-**Schémas et layout du PCB réalisés sur KiCad**\
+**Schémas et layout du PCB réalisés sur** ***KiCad***\
 **Fabrication par le département de GÉGI à l'UQTR et assemblage à la main.**
 
 ## Visuel 3D du PCB des droppers
