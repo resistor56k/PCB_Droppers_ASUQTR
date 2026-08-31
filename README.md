@@ -19,4 +19,5 @@ L'un des deux compartiments à batterie du sous-marin contient deux droppers. Ce
 <img src="3D_New_PCB_Droppers_dessous.png" width="1000" alt="PCB des droppers (vue du dessous)" title="PCB des droppers (vue du dessous)">
 
 ## Photos du PCB une fois imprimé et assemblé
-
+<img src="Photo_PCB_Droppers_dessus2.png" width="1000" alt="PCB des droppers (vue du dessus)" title="PCB des droppers (vue du dessus)">\
+<img src="Photo_PCB_Droppers_dessous.png" width="1000" alt="PCB des droppers (vue du dessous)" title="PCB des droppers (vue du dessous)">
